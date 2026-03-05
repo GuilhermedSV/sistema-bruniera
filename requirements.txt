@@ -1,0 +1,6 @@
+streamlit
+pandas
+supabase
+st-supabase-connection
+requests
+openpyxl
