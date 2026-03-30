@@ -4,3 +4,4 @@ supabase
 st-supabase-connection
 requests
 openpyxl
+python-dotenv
